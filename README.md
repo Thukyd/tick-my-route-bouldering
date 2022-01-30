@@ -12,7 +12,7 @@ I combine tutorial sources with my own ideas to create this:
 
 
 
-# Roadmap | In progress
+# Roadmap | in progress
 ## Core functionality 
 - [ ] Start & stop boudlering sessions
 - [ ] Enter routes with difficulties 
@@ -23,6 +23,10 @@ I combine tutorial sources with my own ideas to create this:
 
 ## Style
 - [ ] Add progesss bar as scroll indicator (https://www.w3schools.com/howto/howto_js_scroll_indicator.asp) 
+
+## Tech
+- [ ] Exchange plain Node.js/Javascript for Typescript?
+- [ ] Swagger Ui or better Nest.js? 
 
 ## Possible Features
 - [ ] Sync to Garmin
