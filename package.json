@@ -1,0 +1,34 @@
+{
+  "name": "tick-my-route-bouldering",
+  "version": "1.0.0",
+  "description": "A webapp to track my bouldering base on Svelte, Express, Node.js &amp; MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "client": "npm run dev --prefix client",
+    "server": "nodemon server.js --ignore 'client/'",
+    "dev": "concurrently \"npm run server\" \"npm run client\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thukyd/tick-my-route-bouldering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thukyd/tick-my-route-bouldering/issues"
+  },
+  "homepage": "https://github.com/Thukyd/tick-my-route-bouldering#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "concurrently": "^7.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
