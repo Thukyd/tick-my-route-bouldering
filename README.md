@@ -8,11 +8,11 @@ This is my first Svelte project which I mostly use as a way to get way to get fa
 
 I combine tutorial sources with my own ideas to create this: 
 - Header & usage of Tailwind CSS in "SvelteKit Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!" | https://github.com/jamesqquick/svelte-kit-pokedex / https://youtu.be/UU7MgYIbtAk?t=1524
-- Express/Node.js backend in "Svelte tutorial : Full stack svelte [1/2] Mongo, express and node js" https://github.com/3stbn/full-stack-svelte-expenses-tracker / https://www.youtube.com/watch?v=X6J41F2DadQ&list=WL&index=83&t=3778s
+- Express/Node.js backend in "Svelte tutorial : Full stack svelte [1/2] Mongo, express and node js" | https://github.com/3stbn/full-stack-svelte-expenses-tracker / https://www.youtube.com/watch?v=X6J41F2DadQ&list=WL&index=83&t=3778s
 
 
 
-# Roadmap (TBD)
+# Roadmap | In progress
 ## Core functionality 
 - [ ] Start & stop boudlering sessions
 - [ ] Enter routes with difficulties 
