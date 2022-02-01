@@ -1,6 +1,6 @@
 <script>
     import Nav from "../components/nav.svelte";
-
+    import Footer from "../components/footer.svelte";
 </script>
 
 <!-- Padding of 8 all arround; maxwidth of 6xl; center all children-->
@@ -11,7 +11,9 @@
         
 
     </slot>
+    <Footer/>
 </div>
+
 
 <!-- Include the basic styles of Tailwind css in every page-->
 <style>

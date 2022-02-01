@@ -23,6 +23,7 @@ I combine tutorial sources with my own ideas to create this:
 
 ## Style
 - [ ] Add progesss bar as scroll indicator (https://www.w3schools.com/howto/howto_js_scroll_indicator.asp) 
+- [ ] Change to your custom theme (color values in TODOS.md) with https://daisyui.com/docs/add-themes
 
 ## Tech
 - [ ] Exchange plain Node.js/Javascript for Typescript?

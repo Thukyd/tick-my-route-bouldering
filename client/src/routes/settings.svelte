@@ -3,5 +3,4 @@
 </svelte:head>
 
 
-<h1>Tick my route!</h1>
-<h2>Settings & Sync</h2>
+<h1>Settings & Sync</h1>
